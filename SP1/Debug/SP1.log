@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\university\5 курс\безопасность\sp1 — копия (2)\sp1\main.cpp(39): warning C4172: возвращение адреса локальной или временной переменной : SystemBiosVersion
+  SP1.vcxproj -> D:\University\5 курс\безопасность\SP1 — копия (2)\Debug\SP1.exe
+  SP1.vcxproj -> D:\University\5 курс\безопасность\SP1 — копия (2)\Debug\SP1.pdb (Full PDB)
